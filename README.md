@@ -1,1 +1,3 @@
 # Horiseon-Accessibility-Code_Refactor
+
+The main goal was to add alt text to the images on this page. I also fixed a link that wasn't working, and consolidated some style lines from the CSS style sheet. Finally, I changed some of the tags in the html code. Everything was marked as div before, and that made it feel more cluttered; I have added more descriptive tags to the code, but they did nothing to change how the page look or acted.
